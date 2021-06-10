@@ -10,21 +10,18 @@
 
 ### oh-my-zsh
 
-zsh的配置脚本，一键配置，有大量的主题和插件，适合linux初学者，但是开启较多插件之后会导致zsh卡顿
-
-[https://ohmyz.sh/](https://ohmyz.sh/)。
+- zsh的配置脚本，一键配置，有大量的主题和插件，适合linux初学者，但是开启较多插件之后会导致zsh卡顿
+- [https://ohmyz.sh/](https://ohmyz.sh/)。
 
 ### zinit
 
-同样是zsh的配置脚本，知名度不如ohmyzsh，但是速度比ohmyzsh快许多。
-
-[https://github.com/zdharma/zinit](https://github.com/zdharma/zinit)
+- 同样是zsh的配置脚本，知名度不如ohmyzsh，但是速度比ohmyzsh快许多
+- [https://github.com/zdharma/zinit](https://github.com/zdharma/zinit)
 
 ### powerlevel10k
 
-zsh的一个主题， 审美在线，采用异步方式加载，可以在有限范围内自定义。
-
-[https://github.com/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
+- zsh的一个主题， 审美在线，采用异步方式加载，可以在有限范围内自定义。
+- [https://github.com/romkatv/powerlevel10k](https://github.com/romkatv/powerlevel10k)
 
 ## Fish
 
@@ -50,7 +47,6 @@ zsh的一个主题， 审美在线，采用异步方式加载，可以在有限�
 - 相关文档   [https://wiki.archlinux.org/title/Ranger_(简体中文)](https://wiki.archlinux.org/title/Ranger_(%E7%AE%80%E4%BD%93%E4%B8%AD%E6%96%87))
 - debian 安装方式 apt install ranger
 - 一张截图
-
 ![pics/ranger.png](pics/ranger.png)
 
 ranger
