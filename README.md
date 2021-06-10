@@ -49,7 +49,6 @@
 - 一张截图
 ![pics/ranger.png](pics/ranger.png)
 
-ranger
 
 # Fzf
 
