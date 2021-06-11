@@ -50,7 +50,7 @@
 ![pics/ranger.png](pics/ranger.png)
 
 
-# Fzf
+## Fzf
 
 - 模糊搜索软件
 - 完成配置之后可以 ctrl+r 可以搜索历史命令 ctrl + t 搜索文件，也可以通过插件配置到vim中
@@ -69,7 +69,7 @@
 - 不用记忆太多的git命令
 - [https://github.com/jonas/tig](https://github.com/jonas/tig)
 
-### Ag
+## Ag
 
 - Ag 是类似ack， grep的工具, 它来在文件中搜索相应关键字
 - 它比ack还要快 （和grep不在一个数量级上）
