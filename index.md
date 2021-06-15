@@ -1,5 +1,7 @@
 # linux 资源收集
 
+[测试链接](./list.md) 
+
 # Shell
 
 ## zsh
