@@ -1,4 +1,4 @@
-# linux 工具
+# linux 资源收集
 
 # Shell
 
