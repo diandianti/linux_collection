@@ -1,0 +1,9 @@
+# ubuntu
+
+# mint
+
+# arch
+
+# openSUSE
+
+
